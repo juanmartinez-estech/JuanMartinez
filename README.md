@@ -17,9 +17,7 @@ const thai = {
   tools: [Visual Code Studio, Intelli J],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
+                        school: "EsTech"
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
