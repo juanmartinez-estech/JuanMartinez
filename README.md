@@ -1,5 +1,3 @@
-<img align='right' src="https://github.com/juanmartinez-estech/juanmartinez-estech/blob/main/Sin%20ti%CC%81tulo%20%E2%80%91%20Made%20with%20FlexClip%20(1).mp4" width="230">
-
 <img align='right' src="https://github.com/juanmartinez-estech/juanmartinez-estech/blob/main/juan_martinez.gif" width="230">
 
 ## Hey! 👋 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
