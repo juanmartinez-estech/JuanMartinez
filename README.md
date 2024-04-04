@@ -23,7 +23,7 @@
 const thai = {
   pronouns: "he" | "him",
   code: [HTML, CSS, Python, Java],
-  tools: [Visual Code Studio, Intelli J],
+  tools: [Visual Code Studio, Intelli J, Android Studio],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {![Uploading juan_martinez_garcia.png…]()
 
