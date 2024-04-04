@@ -1,4 +1,4 @@
-<img align='right' src="https://github.com/juanmartinez-estech/juanmartinez-estech/blob/main/juan_martinez.gif" width="230">
+<img align='right' src="https://github.com/juanmartinez-estech/JuanMartinez/blob/main/Juan-Martinez-4-4-2024.gif" width="100%">
 
 ## Hey! 👋 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 I'm Juan, a 19 years old Software developer from Spain.
